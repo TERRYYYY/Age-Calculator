@@ -8,7 +8,8 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #4203a9, #90bafc);
+    /* background: linear-gradient(135deg, #00feba, #5b548a); */
     color: #fff;
     padding: 10px;
 }
@@ -25,4 +26,11 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+}
+
+.calculator .age_title{
+    font-size: 40px;
+    font-weight: 600;
+    color: #ffff76;
+    margin-left: 50px;
 }
